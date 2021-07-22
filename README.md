@@ -1,6 +1,11 @@
 # image-enhancement
 Multiple processing techniques to analyze and enhance images
 
+# Notes
+
+* Notebook developed in Jupyter
+* The whole code lies in ImageProecessing.ipynb
+
 # Tasks
 1.
     * a) Explain the impact of the following transformation function on a grayscale image, in terms of intensity values and brightness.  
